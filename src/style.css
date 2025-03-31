@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.project-container {
+    border: solid 1px black;
+    margin: 200px;
+    padding: 20px;
+}
+
+.tasks-container {
+    margin: 20px 0;
+}
+
+.task {
+    border: solid 1px black;
+}
